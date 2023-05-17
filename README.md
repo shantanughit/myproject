@@ -1,3 +1,3 @@
 # myproject
-javascript projects
+javascript 
 My wether project
