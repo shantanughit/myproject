@@ -1,3 +1,3 @@
 # myproject
 javascript 
-My wether project
+My weather project
